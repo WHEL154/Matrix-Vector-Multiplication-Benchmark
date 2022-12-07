@@ -58,12 +58,12 @@ After the code has been run for specific matrix sizes, the memory usage can be c
 
 here are my results:
 
-![Space N = 1000](Images/image.png)
+![Space N = 1000](MatrixMultSC/Images/image.png)
 
-![Space N = 1000](images/image(1).png)
+![Space N = 1000](MatrixMultSC/images/image(1).png)
 
-![Space N = 1000](images/image(2).png)
+![Space N = 1000](MatrixMultSC/images/image(2).png)
 
-![Space N = 1000](images/image(3).png)
+![Space N = 1000](MatrixMultSC/images/image(3).png)
 
-![Space N = 1000](images/image(4).png)
+![Space N = 1000](MatrixMultSC/images/image(4).png)
